@@ -1,3 +1,4 @@
+""" This program uses lists comprehension to return a student's name with the SECOND lowest score """
 if __name__ == '__main__':
     records = []
 
